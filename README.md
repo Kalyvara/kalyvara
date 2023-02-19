@@ -4,6 +4,6 @@ While I'm still fairly new to the scene, I'm thinking about developing actual ho
 
 **Languages I'm familiar with:** C++, Python, HTML5, CSS3, JavaScript, SQL, PHP (outdated version) (haven't done web development in a while) ; LaTeX
 
-**Frameworks/software I use:** Windows 10/11, Linux (Ubuntu & Manjaro distros) ; Anaconda, ROOT (C++ based framework developed by CERN mainly used for particle physics simulations)
+**Frameworks/software I use:** Windows 10 & 11, Linux (Ubuntu & Manjaro distros) ; Anaconda, ROOT (C++ based framework developed by CERN mainly used for particle physics simulations)
 
 I don't know what I'll actually submit on this profile. But hey, at least I have a GitHub profile now.
