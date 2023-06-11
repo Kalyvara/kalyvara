@@ -15,7 +15,7 @@ Theme creator contributing to Nintendo Switch and Steam Deck scenes as a newly f
 
 ### Documentation
 
-I wrote several guides availaible on **[LayoutDocs](https://layoutdocs.themezer.net/)**, a website intended for users interested in learning layout editing for Nintendo Switch
+I wrote several guides available on **[LayoutDocs](https://layoutdocs.themezer.net/)**, a website intended for users interested in learning layout editing for Nintendo Switch
 
 - **[Animation guide](https://layoutdocs.themezer.net/guide/animations/)**
 - **[Manual szs theming for unsupported applets](https://layoutdocs.themezer.net/guide/manualszs/)**
