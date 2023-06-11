@@ -1,13 +1,17 @@
 ## About me
 
-Theme creator contributing to Nintendo Switch and Steam Deck scenes as a newly found hobby, though I'm normally more into vector spaces (ugh)
+Theme creator contributing to the Nintendo Switch and Steam Deck scenes as a newly found hobby, though I'm normally more into vector spaces (ugh)
 
-- **[Themezer releases](https://themezer.net/creators/382997176307154945)** (Nintendo Switch)
-- **[DeckThemes releases](https://deckthemes.com/users/view?userId=Discord|382997176307154945)** (Steam Deck)
+
 
 ## Work showcase
 
 ### Themes
+
+Check out the complete list of my releases on the following pages:
+
+- **[Themezer](https://themezer.net/creators/382997176307154945)** (Nintendo Switch)
+- **[DeckThemes](https://deckthemes.com/users/view?userId=Discord|382997176307154945)** (Steam Deck)
 
 | Nintendo Switch | Steam Deck |
 |:---------------------------------------:|:----------------------------------------:|
