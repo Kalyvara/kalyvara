@@ -3,7 +3,7 @@
 Theme creator contributing to the Nintendo Switch and Steam Deck scenes as a newly found hobby, though I'm normally more into vector spaces (ugh)
 
 - **Languages I know:** C++, C#, Python, HTML, CSS
-- **Other tools:** LaTeX, Visual Studio, Photoshop
+- **Other tools:** CERN's ROOT framework, LaTeX, Visual Studio, Photoshop
 
 ## Work showcase
 
