@@ -4,7 +4,7 @@ People may know me as a theme contributor in the Nintendo Switch and Steam Deck 
 
 Physics is my main field at university (as of now), but I'm just as interested in development stuff - though I'm far from being the most skilled person at the moment.
 
-- **Languages I know:** C++, C#, Python, HTML, CSS
+- **Languages I use:** C++, C#, Python, HTML, CSS
 - **Other tools:** CERN's ROOT framework, LaTeX, Visual Studio, Photoshop
 
 On another note, I'm also a big music enthusiast.
