@@ -1,6 +1,8 @@
 ## About me
 
-Theme creator contributing to the Nintendo Switch and Steam Deck scenes as a newly found hobby, though I'm normally more into vector spaces (ugh)
+People may know me as a theme contributor in the Nintendo Switch and Steam Deck scenes, but I'm normally more into vector spaces (ugh).
+
+Physics is my main field at university (as of now), but I'm also largely interested in development stuff - though I'm far from being the most skilled person at the moment.
 
 - **Languages I know:** C++, C#, Python, HTML, CSS
 - **Other tools:** CERN's ROOT framework, LaTeX, Visual Studio, Photoshop
