@@ -2,12 +2,13 @@
 
 People may know me as a theme contributor in the Nintendo Switch and Steam Deck scenes, but I'm normally more into vector spaces (ugh).
 
-Physics is my main field at university (as of now), but I'm just as interested in development stuff - though I'm far from being the most skilled person at the moment.
+Physics is my main field at university (as of now), but I'm just as interested in development stuff - though I'm far from being the most knowledgeable person at the moment.
 
-- **Languages I use:** C++, C#, Python, HTML, CSS
+On an unrelated note, I'm also a huge music enthusiast.
+
+- **Languages I'm likely to use:** C++, C#, Python, HTML, CSS, JavaScript
 - **Other tools:** CERN's ROOT framework, LaTeX, Visual Studio, Photoshop
-
-On an unrelated note, I'm also a big music enthusiast.
+- If you enjoy my work and feel like showing support, you can [buy me a coffee there](https://ko-fi.com/kalyvara). Greatly appreciated!
 
 ## Work showcase
 
