@@ -7,5 +7,5 @@ Physicist, dev hobbyist, theme contributor for the Nintendo Switch and Steam Dec
 
 ## Documentation
 
-- **[Comprehensive animation guide](https://layoutdocs.themezer.net/guide/animations/)**
+- **[Comprehensive NXTheme animation guide](https://layoutdocs.themezer.net/guide/animations/)**
 - **[szs theming (unsupported applets)](https://layoutdocs.themezer.net/guide/manualszs/)**
