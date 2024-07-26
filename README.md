@@ -1,4 +1,4 @@
-Physicist, dev hobbyist, theme contributor for the Nintendo Switch and Steam Deck scenes
+Dev hobbyist and theme contributor for the Nintendo Switch and Steam Deck scenes
 
 ## Theme releases
 
